@@ -10,3 +10,6 @@ spring:
 mybatis:
   type-aliases-package: com.zhuzhu.cloud.entity
   mapper-locations: classpath:mapper/*.xml
+
+test:
+  hello: hello
